@@ -156,7 +156,7 @@ function ImagePage() {
       formData.append("image", file);
 
       const response = await fetch(
-        "http://127.0.0.1:5000/api/analyze-image",
+        "https://verify-lens-backend.vercel.app/api/analyze-image",
         {
           method: "POST",
           body: formData,
