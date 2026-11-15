@@ -26,9 +26,9 @@ const OBJECTIVES = [
 // Placeholder team — replace with your real team members.
 const TEAM = [
   { name: "Pratyusha S", role: "Team Lead & Developer" },
-  { name: "Team Member 2", role: "AI / Backend" },
-  { name: "Team Member 3", role: "UI / UX Design" },
-  { name: "Team Member 4", role: "Research & Awareness" },
+  { name: "T Durga Anjali", role: "UI / UX Design" },
+  { name: "T Yasaswini", role: "Research & Awareness" },
+
 ];
 
 function About() {
